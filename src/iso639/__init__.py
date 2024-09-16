@@ -3,7 +3,7 @@ import datetime
 from .language import Language, LanguageNotFoundError, _get_all_languages
 
 
-__version__ = "2024.4.15"
+__version__ = "2024.4.27"
 __all__ = [
     "__version__",
     "ALL_LANGUAGES",
